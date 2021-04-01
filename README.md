@@ -1,2 +1,3 @@
 # hello.world
-Ideas
+Presentation
+ovitoriano, 28 years, learning to do programing.
